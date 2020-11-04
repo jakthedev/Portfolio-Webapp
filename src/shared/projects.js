@@ -73,7 +73,13 @@ export const PROJECTS =
             Project: [
                 {
                     id: 0,
-                    comment: " Problem, So"
+                    comment: " Problem, Solution, Results "
+                },
+                {
+                    id: 1,
+                    comment: " was on the consulting company team that project was created, team did a great job  ",
+                    author: " Terrell Senior Developer ",
+                    date: "2012-10-16T17:57:28.556094Z"
                 }
             ]
         }
