@@ -34,7 +34,7 @@ export const PROJECTS =
             Project: [
                 {
                     id:0,
-                    comment: " Problem, Solution, Statement ",
+                    comment: " Problem, Solution, Results ",
                 },
                 {
                     id: 1,
@@ -47,7 +47,35 @@ export const PROJECTS =
         {
             id: 2,
             name: ' 23.5 Degrees Consulting ',
-            image: ''
+            image: 'assets/images/235logo.png',
+            category: 'mains',
+            description: ' Website for Consulting website',
+            Project: [
+                {
+                    id: 0,
+                    comment: " Problem, Solution, Results "
+                },
+                {
+                    id: 1,
+                    comment: " Did a good job at completing website, was very proactive and is a great " +
+                        "communicator. ",
+                    author: " Terrell Senior Developer ",
+                    date: "2012-10-16T17:57:28.556094Z"
+                }
+            ]
+        },
+        {
+            id: 3,
+            name: ' Puzzle Huddle Game App ',
+            image: 'assets/images/puzzlehuddle.png',
+            category: 'mains',
+            description: ' Gaming App for Kids Puzzle Building',
+            Project: [
+                {
+                    id: 0,
+                    comment: " Problem, So"
+                }
+            ]
         }
 
 ]
